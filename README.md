@@ -6,6 +6,7 @@
    ____) | |  | |  / // /_ / /| (_) |         smercadonunez95@gmail.com
   |_____/|_|  |_| /_/|____/_/  \___/   OS: Linux, Windows, Andriod, KaiOS
                                        Major: Computer Engineering
+                                       School: Rochester Institue of Technology
                                        Languages: ASM,C,Python,JS
                                                   English, Spanish
                                        Hobbies: Dancing, Photography
